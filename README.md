@@ -3,7 +3,7 @@ My first ever Python project. Allowed me to learn the basics of Python coding an
 
 Basic description of the project:
 
-These python scripts helped me construct delta neutral funding trading strategies using the gains.trade decentralized trading platform.
+These python scripts helped me construct delta neutral funding trading strategies using the gains.trade decentralized trading platform, more info https://twitter.com/makertrade_/status/1658157451685023744
 
 
 funding.py - calculates the expected funding changes in a product, we input our desired collateral and leverage. In return we get how the funding rates will change in response to our trade.
